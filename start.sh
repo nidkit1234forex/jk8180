@@ -20,7 +20,7 @@ n=0
    done
 sleep 3s
 cp ./set-miner-off/offline.json ~/jk8180-update/set-miner-off/
-~/jk8180-update/start-trubo.sh
+~/jk8180-update/start-turbo.sh
 sleep 3s
 
 python3 main.py
