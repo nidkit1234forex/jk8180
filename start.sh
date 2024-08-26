@@ -23,4 +23,4 @@ cp ./set-miner-off/offline.json ~/jk8180-update/set-miner-off/
 cp ./set-miner-on/online.json ~/jk8180-update/set-miner-on/
 sleep 3s
 
-#python3 main.py
+python3 main.py
