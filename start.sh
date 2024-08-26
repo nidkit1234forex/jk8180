@@ -19,6 +19,7 @@ n=0
       sleep 1
    done
 sleep 3s
+cp ./set-miner-off/offline.json ~/jk8180-update/set-miner-off/
 ~/jk8180-update/start-trubo.sh
 sleep 3s
 
