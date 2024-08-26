@@ -18,7 +18,8 @@ n=0
       n=$[$n+1]
       sleep 1
    done
-
+sleep 3s
+~/jk8180-update/start-trubo.sh
 sleep 3s
 
 python3 main.py
