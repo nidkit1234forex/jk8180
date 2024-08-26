@@ -18,9 +18,7 @@ n=0
       n=$[$n+1]
       sleep 1
    done
-sleep 3s
-cp ./set-miner-off/offline.json ~/jk8180-update/set-miner-off/
-cp ./set-miner-on/online.json ~/jk8180-update/set-miner-on/
+   
 sleep 3s
 
 python3 main.py
